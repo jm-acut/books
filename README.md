@@ -47,8 +47,8 @@ Status codes: 200 OK, 201 Created, 400 Validation error / bad id / invalid JSON,
 - year: required integer between 1 and the current year
 
 ## Links
-- GitHub Repository: https://github.com/YOUR-USERNAME/YOUR-REPO
-- Render Deployment: https://YOUR-SERVICE.onrender.com
+- GitHub Repository: https://github.com/jm-acut/books.git
+- Render Deployment: https://YOUR-SERVICE.onrender.co
 
 ## Known Limitations
 - Data is stored in an in-memory array, so records are temporary and reset whenever the server restarts or the Render instance is replaced.
