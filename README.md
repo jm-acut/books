@@ -11,7 +11,7 @@ A RESTful API for managing a small library of books, built with Node.js and Expr
 
 ## Installation and Local Execution
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/jm-acut/books.git
 cd books
 npm install
 npm start
@@ -48,7 +48,7 @@ Status codes: 200 OK, 201 Created, 400 Validation error / bad id / invalid JSON,
 
 ## Links
 - GitHub Repository: https://github.com/jm-acut/books.git
-- Render Deployment: https://YOUR-SERVICE.onrender.co
+- Render Deployment: https://books-3-sh5d.onrender.com
 
 ## Known Limitations
 - Data is stored in an in-memory array, so records are temporary and reset whenever the server restarts or the Render instance is replaced.
